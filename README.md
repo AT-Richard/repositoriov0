@@ -1,3 +1,5 @@
 # repositoriov0
 
 readme de exemplo
+
+lembrei do comando: git status
